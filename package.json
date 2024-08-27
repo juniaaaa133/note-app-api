@@ -12,6 +12,6 @@
   },
   "scripts": {
     "start": "node app",
-    "build": "npm install"
+    "build": "npm run build"
   }
 }
